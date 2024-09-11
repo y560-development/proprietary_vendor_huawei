@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
     vendor/huawei/y560/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
     vendor/huawei/y560/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmm-qcamera.so:system/vendor/lib/libmm-qcamera.so \
     vendor/huawei/y560/proprietary/vendor/lib/libOmxSwVencMpeg4.so:system/vendor/lib/libOmxSwVencMpeg4.so \
@@ -102,7 +101,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/huawei/y560/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/huawei/y560/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/huawei/y560/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/huawei/y560/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/huawei/y560/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
@@ -138,7 +136,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/huawei/y560/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/huawei/y560/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/huawei/y560/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/huawei/y560/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/huawei/y560/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
@@ -172,7 +169,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
