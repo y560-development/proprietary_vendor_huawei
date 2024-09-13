@@ -19,36 +19,6 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),y560)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := qcrilmsgtunnel
-LOCAL_MODULE_OWNER := huawei
-LOCAL_SRC_FILES := proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk
-LOCAL_CERTIFICATE := platform
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_CLASS := APPS
-LOCAL_MODULE_SUFFIX := .apk
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := shutdownlistener
-LOCAL_MODULE_OWNER := huawei
-LOCAL_SRC_FILES := proprietary/app/shutdownlistener/shutdownlistener.apk
-LOCAL_CERTIFICATE := platform
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_CLASS := APPS
-LOCAL_MODULE_SUFFIX := .apk
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := TimeService
-LOCAL_MODULE_OWNER := huawei
-LOCAL_SRC_FILES := proprietary/app/TimeService/TimeService.apk
-LOCAL_CERTIFICATE := platform
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_CLASS := APPS
-LOCAL_MODULE_SUFFIX := .apk
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
 LOCAL_MODULE := qcnvitems
 LOCAL_MODULE_OWNER := huawei
 LOCAL_SRC_FILES := proprietary/framework/qcnvitems.jar
